@@ -1,0 +1,5 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (111.4752851 -0.2787808)",20.0,0.0,Provinsi Kalimantan Barat,61.0,1.0,-0.2787808,111.4752851,1.0
+"POINT (113.3823545 -1.6814878)",21.0,0.0,Provinsi Kalimantan Tengah,62.0,1.0,-1.6814878,113.3823545,1.0
+"POINT (115.2837585 -3.0926415)",22.0,0.0,Provinsi Kalimantan Selatan,63.0,1.0,-3.0926415,115.2837585,1.0
+"POINT (116.4193983 0.6191281)",23.0,0.0,Provinsi Kalimantan Timur,64.0,1.0,0.6191281,116.4193983,1.0

@@ -1,0 +1,5 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (130.1452734 -3.2384616)",30.0,0.0,Provinsi Maluku,81.0,1.0,-3.2384616,130.1452734,1.0
+"POINT (127.8087693 1.5709993)",31.0,0.0,Provinsi Maluku Utara,82.0,1.0,1.5709993,127.8087693,1.0
+"POINT (133.1747162 -1.3361154)",32.0,0.0,Provinsi Papua Barat,91.0,1.0,-1.3361154,133.1747162,1.0
+"POINT (138.0803529 -4.269928)",33.0,0.0,Provinsi Papua,94.0,1.0,-4.269928,138.0803529,1.0

@@ -1,0 +1,7 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (123.9750018 0.6246932)",24.0,0.0,Provinsi Sulawesi Utara,71.0,1.0,0.6246932,123.9750018,1.0
+"POINT (121.4456179 -1.4300254)",25.0,0.0,Provinsi Sulawesi Tengah,72.0,1.0,-1.4300254,121.4456179,1.0
+"POINT (119.9740534 -3.6687994)",26.0,0.0,Provinsi Sulawesi Selatan,73.0,1.0,-3.6687994,119.9740534,1.0
+"POINT (122.174605 -4.14491)",27.0,0.0,Provinsi Sulawesi Tenggara,74.0,1.0,-4.14491,122.174605,1.0
+"POINT (122.4467238 0.6999372)",28.0,0.0,Provinsi Gorontalo,75.0,1.0,0.6999372,122.4467238,1.0
+"POINT (119.2320784 -2.8441371)",29.0,0.0,Provinsi Sulawesi Barat,76.0,1.0,-2.8441371,119.2320784,1.0
